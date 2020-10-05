@@ -4,8 +4,4 @@ Just another try
 
 Buite a new branch!
 
-<<<<<<< HEAD
-this is from the master!
-=======
-this is from not interesting 
->>>>>>> dev
+this is both uninteresting and from master
